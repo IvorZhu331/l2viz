@@ -17,7 +17,7 @@ A high-performance Level 2 order book visualizer built with C++, SDL2, and ImGui
 
 ```bash
 git clone <repo>
-cd l2-visualizer
+cd l2viz
 make
 ```
 
