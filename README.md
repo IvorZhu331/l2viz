@@ -10,7 +10,7 @@ A high-performance Level 2 order book visualizer built with C++, SDL2, and ImGui
 ### Prerequisites
 
 - C++17 compatible compiler
-- CMake 3.15+
+- CMake 3.20+
 - SDL2 development libraries
 
 ### Setup & Build
